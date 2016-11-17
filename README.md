@@ -1,6 +1,6 @@
 [C# Sharp Checklist](https://github.com/chuckconway/c-sharp-code-review-checklist)
 
-**General**
+## General ##
 
 *Does it meet the Business Requirements?*
 
@@ -28,7 +28,7 @@
 
 - Was the code left better than when it was found?
 
-**Code**
+## Code ##
 
 *Is there redundant or duplicate code?*
 
@@ -88,7 +88,7 @@
 
 - Is Select N+1 an issue when retrieving data from the database in a loop? Is the data model retrieving more data than needed?
 
-**Security**
+## Security ##
 
 *Are all the data imports checked (for the correct type, length, format and range) and encoded?*
 
@@ -110,7 +110,7 @@
 
 - Is there unsanitized data accepted from the client that is returned to the client?
 
-**Testing**
+## Testing ##
 
 *Is the code testable?*
 
