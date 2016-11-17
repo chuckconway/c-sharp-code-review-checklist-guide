@@ -4,15 +4,15 @@
 
 *Does it meet the Business Requirements?*
 
-At a minimum understand the intent of the business requirements, this gives insight into what the code is trying to accomplish.
+- At a minimum understand the intent of the business requirements, this gives insight into what the code is trying to accomplish.
 
 *Is the code easily understood?*
 
-A good rule of thumb is if you can't understand the code within 3 minutes, it's too complicated.
+- A good rule of thumb is if you can't understand the code within 3 minutes, it's too complicated.
 
 *Does it conform to the agreed coding conventions?*
 
-The coding conventions are posted here:
+- The coding conventions are posted here:
 
 [C# Style Guide](https://github.com/chuckconway/c-sharp-style-guide/blob/master/README.markdown)
 
