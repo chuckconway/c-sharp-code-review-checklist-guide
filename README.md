@@ -24,7 +24,7 @@
 
     string strName = "Chuck";
 
-*Is the Boy Scout rule applied (is the code better than before it was change)?*
+*Is the Boy Scout rule applied (is the code better now, than before it was change)?*
 
 - Was the code left better than when it was found?
 
